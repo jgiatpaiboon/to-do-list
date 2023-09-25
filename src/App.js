@@ -5,6 +5,7 @@ import {
   faCircleCheck, faPen, faTrashCan
 } from '@fortawesome/free-solid-svg-icons';
 
+///a simple to-do list app with React.js
 
 import './App.css';
 
